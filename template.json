@@ -14,7 +14,7 @@
             "downloadURL":"", //Direct link to the .dll/.zip release
             "testedon":{
                 "tldversion":"",
-                "mlversion":"0.2.7"
+                "mlversion":""
             },
             "dependencies":[], //This array should have all the other mods needed to make this one work.
             "updater":{
