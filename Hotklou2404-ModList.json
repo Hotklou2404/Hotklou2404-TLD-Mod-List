@@ -15,7 +15,10 @@
 				"tldversion":"1.94",
 				"mlversion":"0.4.3"
 			},
-			"dependencies":[ModSettings, ModComponent],
+			"dependencies":[
+				"ModSettings",
+				"ModComponent"
+			],
 			"status":{
 				"working":true,
 				"issues":"",
