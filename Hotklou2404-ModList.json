@@ -1,0 +1,26 @@
+{
+	"author":"Hotklou2404",
+	"authorURL":"https://github.com/Hotklou2404",
+	"mods":[
+		{
+			"name":"ConvenientBlueprints",
+			"author":"Hotklou2404",
+			"authorURL":"https://github.com/Hotklou2404",
+			"version":"1.2.0",
+			"updated":"2021-08-19",
+			"description":"This mod adds custom crafting recipes for select items and materials that are normally either non-renewable or only renewable through beachcombing.",
+			"modURL":"https://github.com/Hotklou2404/ConvenientBlueprints",
+			"downloadURL":"https://github.com/Hotklou2404/ConvenientBlueprints/releases/download/v1.2.0/ConvenientBlueprints.modcomponent",
+			"testedon":{
+				"tldversion":"1.94",
+				"mlversion":"0.4.3"
+			},
+			"dependencies":[ModSettings, ModComponent],
+			"status":{
+				"working":true,
+				"issues":"",
+				"notes":""
+			}
+		}
+	]
+}
