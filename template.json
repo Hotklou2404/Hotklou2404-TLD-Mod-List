@@ -9,14 +9,14 @@
             "authorURL":"", //If left empty, main author URL will be used
             "version":"", //Current version of the mod
             "updated":"", //ISO date YYYY-MM-DD
-            "description":"", //If something special needs to be done to install the mod (such as extracting a .zip) it should go in here too.
+            "description":"", //If something special needs to be done to install the mod (such as extracting a .zip) it should go in here too
             "modURL":"", //Direct link to the main page of the repository (mainly so the README.md shows)
             "downloadURL":"", //Direct link to the .dll/.zip release
             "testedon":{
                 "tldversion":"",
                 "mlversion":""
             },
-            "dependencies":[], //This array should have all the other mods needed to make this one work.
+            "dependencies":[], //This array should have all the other mods needed to make this one work
             "updater":{
                 "enable":true, //Set this to avoid automatic updates for the mod
                 "downloads":[]  //Array of files the updater needs to download. If left empty, the updater will use the downloadURL 
